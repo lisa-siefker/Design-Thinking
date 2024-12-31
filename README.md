@@ -1,1 +1,2 @@
-# Design-Thinking
+## Project Background 
+This project used a design thinking approach to 1) explore the negative impacts of remote work on employee mental health, and 2) develop a method to identify and implement solutions. The proposed research method collected information via surveys and diary logs, facilitated workshops to identify potential solutions, implemented solutions, then collected feedback via a follow-up survey. The method is iterative and flexible - if a solution was not successful, the process can continue until a succesful solution is implemented.  
